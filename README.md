@@ -23,4 +23,4 @@ python agenda.py
 - Módulo sqlite3 (já incluso no Python)
 
 ## 🧑‍💻 Autor
-:Nicolas Ubaldo Moreira
+Nicolas Ubaldo Moreira
